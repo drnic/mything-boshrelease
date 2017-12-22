@@ -1,0 +1,6 @@
+---
+name: mything
+packages: []
+templates:
+  ignoreme: ignoreme
+properties: {}
